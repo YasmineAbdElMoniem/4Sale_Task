@@ -1,0 +1,1 @@
+{"uuid":"be9deb9b-32f7-4aef-8bce-d2621e66bce0","name":"AndroidTests.NativeApp","children":["f11534b0-c4a9-4b0a-b114-cceeb4190cc4"],"befores":[{"name":"OpenSwagLabApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1656791245985,"stop":1656791254849}],"afters":[],"start":1656791245937,"stop":1656791258612}
